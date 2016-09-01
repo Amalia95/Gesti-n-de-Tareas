@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Gestor de Tareas</string>
+    <string name="escriba_nombre">Escriba su nombre</string>
+    <string name="escriba_email">Escriba su email</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="error_nombre" />
+    <string name="error_email" >Debe ser un email</string>
+    <string name="nombre_error">El nombre no debe estar vacio</string>
+    <string name="welcome_msj">Bienvenido</string>
+</resources>
